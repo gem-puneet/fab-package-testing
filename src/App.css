@@ -1,0 +1,91 @@
+/* App.css */
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+main {
+  padding: 20px;
+}
+
+/* App.css */
+.features {
+  margin-bottom: 40px;
+}
+
+.features h2 {
+  margin-bottom: 20px;
+}
+
+.features ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.features li {
+  margin-bottom: 10px;
+}
+
+.about {
+  margin-bottom: 40px;
+}
+
+.about h2 {
+  margin-bottom: 20px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.footer-links ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.footer-social ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-social li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.footer-info {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.footer-info p {
+  margin: 0;
+}
+
+
+footer {
+  background-color: #282c34;
+  color: white;
+  padding: 10px 0;
+}
